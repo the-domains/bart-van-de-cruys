@@ -2,21 +2,14 @@
     <channel>
         <title><![CDATA[Bart Van de Cruys]]></title>
         <description><![CDATA[Bart Van de Cruys]]></description>
-        <link>https://thegrid.ai/bart-van-de-cruys/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 15:49:02 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/bart-van-de-cruys/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Nieuw logo]]></title>
-            <description><![CDATA[<article><h1>Nieuw logo</h1><p>Dit is een eerste test</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/23d3758a-7b3e-4d2b-a99a-3cb550546110.png"></article>]]></description>
-            <link>https://thegrid.ai/bart-van-de-cruys/nieuw-logo/index.html</link>
-            <guid isPermaLink="false">0420e79d-4ba1-4a36-9584-e48130723066</guid>
-            <pubDate>Thu, 17 Dec 2015 15:49:01 GMT</pubDate>
-        </item>
+        <lastBuildDate>Thu, 17 Dec 2015 15:49:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>https://thegrid.ai/bart-van-de-cruys/getting-started-on-the-grid/index.html</link>
+            <link>undefinedgetting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">36017ee2-6efc-4fca-be59-239d59f25653</guid>
             <pubDate>Thu, 17 Dec 2015 15:49:01 GMT</pubDate>
         </item>
