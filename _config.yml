@@ -1,0 +1,28 @@
+name: Bart Van de Cruys
+favicon: null
+layout_spectrum: 0.8587567501235753
+typography_spectrum: 0.9866095881443471
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#435180'
+    - '#3094d0'
+    - '#606885'
+    - '#d3ecf5'
+  brandStrength: 0.43208749871701
+  lightness: 0.7301187857519835
+  saturation: 0.5629981542006135
+  rhythmicContrast: 0.6884342201519758
+purpose: []
